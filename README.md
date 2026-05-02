@@ -32,6 +32,7 @@ cd nome-do-repositorio
 Execute o arquivo principal:
 python nome_do_arquivo.py
 📷 Exemplo de uso
+
 ========================================
          GERENCIADOR DE ESTOQUE
 ========================================
